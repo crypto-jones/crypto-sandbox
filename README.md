@@ -1,4 +1,4 @@
-### Full Stack DApp to introduce developers to blockchain fundamentals.
+### Crypto ticker for current cryptocurrency prices .
 
 Contributors:
 - Jeremy Jones
