@@ -1,4 +1,4 @@
-### Crypto ticker for current cryptocurrency prices .
+### Crypto ticker for current cryptocurrency prices
 
 Contributors:
 - Jeremy Jones
